@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @issam12367
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and JS.
+- 👀 I’m interested in AI, competitive programming and web developpement.
+- 🌱 I’m currently learning about webdev.
 - 📫 You can reach me by email : issamelimrany@hotmail.com
 
 <!---
